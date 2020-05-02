@@ -18,7 +18,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hi Pm വെറുതെ മെസ്സേജ് അയച്ചു സമയം കളയണ്ട🥺 [ഗ്രുപ്പ്ലേക്ക് വാ😎](https://t.me/joinchat/MOwzix1ty4Ane2AviBTUwQ)എന്നേ കുറിച്ച് അറിയണമെങ്കിൽ /donate എന്ന് കൊടുക്കുക 
+Hi Pm വെറുതെ മെസ്സേജ് അയച്ചു സമയം കളയണ്ട🥺 [ഗ്രുപ്പ്ലേക്ക് വാ😎](https://t.me/joinchat/MOwzix1ty4Ane2AviBTUwQ)...എന്നേ കുറിച്ച് കൂടുതൽ അറിയണമെങ്കിൽ /donate എന്ന് കൊടുക്കുക 
 """
 
 HELP_STRINGS = """
@@ -39,7 +39,7 @@ HELP_STRINGS = """
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nഈ പറഞ്ഞിരിക്കുന്ന commandകൾ എല്ലാം  / അല്ലെങ്കിൽ ! വെച്ച് ഉപയോഗിക്കാവുന്നതാണ്...\n")
 
-DONATE_STRING = """My Age 23🥰 . My Please USA. My Father  [Jinshad](https://t.me/SF_Movies) My Mother Is Dead🥺)."""
+DONATE_STRING = """My Age 23🥰 ... My Place Kozhikode. My Father  [Jinshad](https://t.me/SF_Movies) My Mother Is Dead🥺)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
