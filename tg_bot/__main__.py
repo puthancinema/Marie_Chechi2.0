@@ -18,7 +18,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hi Pm വെറുതെ മെസ്സേജ് അയച്ചു സമയം കളയണ്ട🥺 [ഗ്രുപ്പ്ലേക്ക് വാ😎](https://t.me/joinchat/MOwzix1ty4Ane2AviBTUwQ)
+Hi Pm വെറുതെ മെസ്സേജ് അയച്ചു സമയം കളയണ്ട🥺 [ഗ്രുപ്പ്ലേക്ക് വാ😎](https://t.me/joinchat/MOwzix1ty4Ane2AviBTUwQ)എന്റെ ഫാദർ ആരാണെന്നു അറിയണമെങ്കിൽ 
 """
 
 HELP_STRINGS = """
@@ -39,11 +39,7 @@ HELP_STRINGS = """
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nഈ പറഞ്ഞിരിക്കുന്ന commandകൾ എല്ലാം  / അല്ലെങ്കിൽ ! വെച്ച് ഉപയോഗിക്കാവുന്നതാണ്...\n")
 
-DONATE_STRING = """Heya, glad to hear you want to donate!
-It took lots of work for [my creator](t.me/sonoflars) to get me to where I am now, and every donation helps \
-motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
-(see his bio!). He's just a poor student, so every little helps!
-There are two ways of paying him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
+DONATE_STRING = """You can also donate to the person currently running me [here](https://t.me/SF_Movies)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
