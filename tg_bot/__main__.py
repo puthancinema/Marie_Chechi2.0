@@ -39,7 +39,7 @@ HELP_STRINGS = """
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nഈ പറഞ്ഞിരിക്കുന്ന commandകൾ എല്ലാം  / അല്ലെങ്കിൽ ! വെച്ച് ഉപയോഗിക്കാവുന്നതാണ്...\n")
 
-DONATE_STRING = """You can also donate to the person currently running me [here](https://t.me/SF_Movies)."""
+DONATE_STRING = """My Age 23🥰 . My Please USA. My Father  [Jinshad](https://t.me/SF_Movies) My Mother Is Dead🥺)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
